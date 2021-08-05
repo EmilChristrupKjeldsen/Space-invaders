@@ -17,6 +17,6 @@ Copyright (C) Aarhus Tech / SKP Data IT - All Rights Reseserved
 
 @brief Space invaders game startup
 
-@description This is a game i made with p5.js. I gave the game more funtionality later on, but my startup type of the game was the only one that still had the functionality to shoot 
+@description This is a game i made with p5.js. I gave the game more funtionality later on, but my "startup" type of the game was the only one that still had the functionality to shoot. Therefore this is the game I chose to have as a repository on my Github 
 
 ... The game is not complete yet, but a lot of the fundamentals I have learned with the Javascript framework called p5.js, is shown with this game. ... *********************************************************************************************************/
